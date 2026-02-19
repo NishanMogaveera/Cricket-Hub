@@ -1,8 +1,8 @@
-## 🏏 Cricket Hub
+# 🏏 Cricket Hub
 
 An interactive web-based cricket platform that combines quiz gaming, e-commerce, player card collection, leaderboard ranking, and cart management in one system.
 
-# 📌 Project Overview
+## 📌 Project Overview
 Cricket Hub is a full-stack web application developed using PHP, MySQL, HTML, CSS, and JavaScript.
 
 It provides users with an engaging cricket-based experience including:
@@ -12,7 +12,7 @@ It provides users with an engaging cricket-based experience including:
 🏆 Leaderboard System
 🛒 Shopping Cart & Payment Page
 
-# 🚀 Features
+## 🚀 Features
 1️⃣ Cricket Quiz
 Multiple choice cricket questions
 Score calculation
@@ -41,7 +41,7 @@ Clear cart option
 Proceed to payment
 Dynamic cart counter
 
-# 🛠️ Technologies Used
+## 🛠️ Technologies Used
 HTML-	Structure
 CSS-	Styling & Glassmorphism UI
 JavaScript-	Dynamic interaction
@@ -49,7 +49,7 @@ PHP-	Backend logic
 MySQL-	Database
 XAMPP-	Local server
 
-# Sample Screenshot-
+## Sample Screenshot-
 1.Login Page
 <img width="940" height="551" alt="image" src="https://github.com/user-attachments/assets/8618a789-5ca7-4abb-a9a4-d9fdeecc50ce" />
 
